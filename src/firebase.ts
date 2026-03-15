@@ -52,7 +52,7 @@ export const requestNotificationPermission = async () => {
     const permission = await Notification.requestPermission();
     if (permission === 'granted') {
       // Replace with your VAPID key from Firebase Console -> Project Settings -> Cloud Messaging -> Web configuration
-      const currentToken = await getToken(messaging, { vapidKey: 'YOUR_VAPID_KEY' });
+      const currentToken = await getToken(messaging, { vapidKey: 'BFU4qW6muiS1dAoRGlEAIPZoNv3vR6xgSezzdNNkANwTwFn0vZPGOuI9nKcsu3MNRUmyTgGZTzjbz-W4TwaIDkk' });
       if (currentToken) {
         console.log('FCM Token:', currentToken);
         return currentToken;
