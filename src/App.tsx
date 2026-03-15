@@ -9,7 +9,7 @@ import { LogOut, Bell, AlertTriangle } from 'lucide-react';
 
 // ADD YOUR WIFE'S EMAIL HERE
 const ALLOWED_EMAILS = [
-  'balushi_scorpions@Live.com',
+  'balushi_scorpions@live.com',
   'wife.email@gmail.com' // <-- Replace with your wife's actual email
 ];
 
