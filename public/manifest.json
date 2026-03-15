@@ -1,0 +1,21 @@
+{
+  "short_name": "FamilyCal",
+  "name": "Family Calendar",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/familycal/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/familycal/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#4f46e5"
+}

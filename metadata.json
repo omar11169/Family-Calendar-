@@ -1,0 +1,5 @@
+{
+  "name": "Family Calendar PWA",
+  "description": "A shared family calendar PWA with real-time syncing and push notifications.",
+  "requestFramePermissions": []
+}
